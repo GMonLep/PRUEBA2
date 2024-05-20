@@ -1,0 +1,8 @@
+DATOS DE LIQUIDACIÓN DE pedro
+
+Nombre del trabajador: pedro
+Sueldo base: $300,000
+Pago por cada hora extra: $8,438
+Total ingresos mensuales: $308,438
+Descuentos por seguridad social: $52,434
+Sueldo neto a pagar: 256,003
